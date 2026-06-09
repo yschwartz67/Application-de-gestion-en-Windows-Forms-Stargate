@@ -1,8 +1,8 @@
 # Projet Stargate
 # Description
-Ce projet comporte une application Windows Forms permettant de gérer les missions de la base militaire Stargate ainsi que d'avoir des informations sur des planètes ou aliens des différentes missions.
+Ce projet comporte une application Windows Forms crée en c# avec utilisation de SQL permettant de gérer les missions de la base militaire Stargate ainsi que d'avoir des informations sur des planètes ou aliens des différentes missions.
 
-# Capture d'écran de l'application
+# Captures d'écran de l'application
 **Écran d'accueil :**
 <img width="1919" height="1008" alt="Capture d&#39;écran 2026-06-09 115614" src="https://github.com/user-attachments/assets/ae9cc729-dc40-44b9-8619-02b9f07d51b0" />
 
